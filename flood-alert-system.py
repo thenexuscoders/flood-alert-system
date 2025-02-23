@@ -6,10 +6,10 @@ from twilio.rest import Client
 
 # Constants
 OPENWEATHER_API_KEY = "62df3f23cf6e7c0bb8f84b101683938a"       #Enter openweather api key   
-TWILIO_ACCOUNT_SID = "ACacb8361b4b7f6255970f6d9c9ea4517c"      #Enter twilio account sid       
-TWILIO_AUTH_TOKEN = "674f4e8d11d0adc4bae7292a12f62f2f"         #Enter twilio authentication token      
-FROM_PHONE = "+1 681 419 6067"                                 #Enter the developer's temp number                                
-TO_PHONE = "+91 8974657320"                                    #Enter twilio registered phone number to receive alert
+TWILIO_ACCOUNT_SID = "NA"                                      #Enter twilio account sid  (cannot be disclosed due to security reasons)
+TWILIO_AUTH_TOKEN = "NA"                                       #Enter twilio authentication token (cannot be disclosed due to security reasons)
+FROM_PHONE = "+1 681 419 6067"                           
+TO_PHONE = "NA"                                                #Enter twilio registered phone number to recieve alerts (cannot be disclosed due to security reasons)
 
 
 # Fetch weather data
