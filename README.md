@@ -1,7 +1,10 @@
 # Flood Alert System
 
 This is a python based flood alert system made for Regen Hackathon 2025 by team NEXUS
-
+<br>
+<br>
+Some information had to removed due to security reasons and github policy.
+<br
 
 
 ## API Reference
